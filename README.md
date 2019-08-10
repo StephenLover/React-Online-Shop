@@ -14,3 +14,4 @@ This is a online shop demo for practicing my react skills with other techniques
 ### Session Storage (TODO)
 ### Heroku (TODO)
 ### Redux Thunk/Saga (TODO)
+### Docker (TODO)
