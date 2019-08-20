@@ -12,7 +12,7 @@ This is a online shop demo for practicing my react skills with other techniques
 ### GraphQL(TODO)
 ### Hooks (TODO)
 ### Session Storage (TODO)
-### Heroku (TODO)
+### Heroku/AWS (TODO)
 ### Redux Thunk/Saga (TODO)
 ### Docker (TODO)
 ### Stripe Payment(TODO)
