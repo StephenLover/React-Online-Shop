@@ -15,3 +15,4 @@ This is a online shop demo for practicing my react skills with other techniques
 ### Heroku (TODO)
 ### Redux Thunk/Saga (TODO)
 ### Docker (TODO)
+### Stripe Payment(TODO)
